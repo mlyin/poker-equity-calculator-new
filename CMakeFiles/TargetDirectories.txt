@@ -1,3 +1,0 @@
-/Users/mlyin/Desktop/MonteCarlo-Poker-master/CMakeFiles/MonteCarloPoker.dir
-/Users/mlyin/Desktop/MonteCarlo-Poker-master/CMakeFiles/edit_cache.dir
-/Users/mlyin/Desktop/MonteCarlo-Poker-master/CMakeFiles/rebuild_cache.dir
